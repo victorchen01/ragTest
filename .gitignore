@@ -1,0 +1,92 @@
+# .NET build outputs
+[Rr]AGDataService/[Bb]in/
+[Rr]AGDataService/[Oo]bj/
+[Rr]AGDataService/*.exe
+[Rr]AGDataService/*.dll
+[Rr]AGDataService/*.pdb
+
+# User-specific files
+[Rr]AGDataService/*.rsuser
+[Rr]AGDataService/*.suo
+[Rr]AGDataService/*.user
+[Rr]AGDataService/*.userosscache
+[Rr]AGDataService/*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sensitive configuration files
+[Rr]AGDataService/appsettings.json
+[Rr]AGDataService/appsettings.*.json
+!RAGDataService/appsettings.json.example
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
